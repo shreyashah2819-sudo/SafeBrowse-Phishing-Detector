@@ -103,6 +103,5 @@ SafeBrowse - Phishing Detector is a cybersecurity-focused browser extension that
 Author
 
 Shah Shreya A
-
 Diploma in Information Technology Engineering
-Cybersecurity Internship Minor Project
+Cybersecurity Internship Project
