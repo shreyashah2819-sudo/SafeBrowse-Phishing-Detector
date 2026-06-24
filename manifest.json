@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "SafeBrowse - Phishing Detector",
+  "version": "1.0",
+  "description": "Detects potentially suspicious websites using URL analysis.",
+  "permissions": ["tabs"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
